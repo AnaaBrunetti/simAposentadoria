@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="botao">#00695C</color>
+    <color name="roxo">#9C27B0</color>
+    <color name="fundo_inicio">#FFFFFF</color>
+    <color name="fundo_fim">#DECF6AE4</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simulador de Aposentadoria</string>
+
+    <string name="genero">Gênero</string>
+
+    <string name="idade">Idade</string>
+
+    <string name="calcular">Calcular</string>
+
+    <string name="resultado">Resultado</string>
+
+    <string name="ja_aposentado">Você já deveria estar aposentado.</string>
+
+    <string name="tempo_restante">Faltam %1$d anos para a aposentadoria.</string>
+
+    <string name="nome_aluno">Nome: Ana Carolina Brunetti</string>
+
+</resources>
